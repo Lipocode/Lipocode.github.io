@@ -1,2 +1,3 @@
-# Lipocode.github.io
-My Profolio Website
+# username.github.io
+
+This is a sample website built using HTML and CSS.
